@@ -4,14 +4,19 @@ I am a systems engineer graduated from Universidad Americana (UAM) with knowledg
 
 I will give you a brief description of my projects:
 
-Car quoting program
+# Car quoter
+
+This is a Python application made with Tkinter as GUI that works using Selenium to automate the actions taken by employees to quote a car, it looks for information from the National Registry, TSE and CR Autos to enter it in the platform of some insurers such as Lafise, Qualitas, INS and Oceanica, it uses Joblib to do parallel tasks.
 
 Technologies used:
 
 [![Python][Python]][Selenium-url] 
 [![Selenium][Selenium]][Python-url]
 
-CV webpage
+# CV Webpage
+
+A website to showcase my web development skills with relevant information about my projects.
+
 Technologies used:
 
 [![React][React.js]][React-url]
@@ -19,7 +24,11 @@ Technologies used:
 [![CSS][CSS]][CSS-url]
 [![HTML][HTML]][HTML-url]
 
-Automatic dashboard in excel
+# Automatic dashboard in excel
+
+We wanted to be faster with the report we were giving to companies on the status of their Occupational Risk Insurance so we used Visual Basic with Excel so that with the raw data and a shortcut we could process the data and generate graphs.
+
+Technologies used:
 
 [![VB][VB]][VB-url]
 
